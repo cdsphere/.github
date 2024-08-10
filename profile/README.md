@@ -1,9 +1,3 @@
----
-title: Codesphere
-logo: logo.png
-primary_color: #622BF9
----
-
 # Codesphere
 
 ![Codesphere Logo](../logo.png)
